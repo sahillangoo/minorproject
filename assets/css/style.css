@@ -1,0 +1,36 @@
+ #header {
+   color: black;
+   font-style: bold;
+   font-size: 50px;
+   text-align: center;
+
+ }
+
+ #header-down {
+   text-align: center;
+   color: black;
+   font-size: 30px;
+
+ }
+
+ .notice-side {
+   border: 1px solid black;
+
+ }
+
+ #notice {
+   border: 1px solid red;
+   margin-top: 5px;
+ }
+
+ #noticeul {
+   margin-top: 20px;
+   padding: 20px;
+   list-style: none;
+ }
+
+ #noticeul li {
+   padding: 10px;
+   margin-bottom: 20px;
+   font-size: 15px;
+ }
